@@ -3,7 +3,7 @@
 
     <object name="tinymce_plugins_siyavula"
         meta_type="Filesystem Directory View"
-        directory="siyavula.tinemce.ploneplugins:skins/tinymce_plugins_siyavula/tinymce/plugins"/>
+        directory="siyavula.tinymce.ploneplugins:skins/tinymce_plugins_siyavula/tiny_mce/plugins"/>
 
     <skin-path name="Plone Default">
         <layer name="tinymce_plugins_siyavula"
