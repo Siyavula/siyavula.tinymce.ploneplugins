@@ -1,0 +1,3 @@
+[submodule "siyavula/tinymce/ploneplugins/skins/tinymce_plugins_siyavula"]
+	path = siyavula/tinymce/ploneplugins/skins/tinymce_plugins_siyavula
+	url = https://github.com/Siyavula/siyavula.tinymce.plugins.git
