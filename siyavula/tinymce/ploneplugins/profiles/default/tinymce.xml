@@ -2,12 +2,40 @@
 <object>
     <resourcetypes purge="False">
         <customplugins purge="False">
+            <element value="insertexample"/>
+            <element value="insertinvestigation"/>
+            <element value="insertkeyconcepts"/>
+            <element value="insertdefinition"/>
+            <element value="insertpart"/>
+            <element value="insertchapter"/>
+            <element value="insertsection"/>
+            <element value="insertsubsection"/>
             <element value="insertactivity"/>
+            <element value="insertkeyquestions"/>
+            <element value="insertquestions"/>
+            <element value="insertrevision"/>
+            <element value="insertnewwords"/>
+            <element value="insertvisit"/>
+            <element value="insertdidyouknow"/>
         </customplugins>
     </resourcetypes>
     <toolbar>
         <customtoolbarbuttons purge="False">
+            <element value="insertexample"/>
+            <element value="insertinvestigation"/>
+            <element value="insertkeyconcepts"/>
+            <element value="insertdefinition"/>
+            <element value="insertpart"/>
+            <element value="insertchapter"/>
+            <element value="insertsection"/>
+            <element value="insertsubsection"/>
             <element value="insertactivity"/>
+            <element value="insertkeyquestions"/>
+            <element value="insertquestions"/>
+            <element value="insertrevision"/>
+            <element value="insertnewwords"/>
+            <element value="insertvisit"/>
+            <element value="insertdidyouknow"/>
         </customtoolbarbuttons>
     </toolbar>
 </object>
