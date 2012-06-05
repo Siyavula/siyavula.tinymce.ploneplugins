@@ -3,198 +3,227 @@
 
     <stylesheet title=""
         id="insertexample/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertexample/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertinvestigation/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertinvestigation/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertkeyconcepts/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertkeyconcepts/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertdefinition/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertdefinition/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
-
-    <!--
-    insertexample,insertinvestigation,insertkeyconcepts,insertdefinition,insertpart,insertchapter,insertsection,insertsubsection,insertactivity,insertkeyquestions,insertquestions,insertrevision,insertnewwords,insertvisit,insertdidyouknow
-    -->
+        enabled="1" />
 
     <stylesheet title=""
         id="insertpart/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertpart/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertchapter/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertchapter/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertsection/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertsection/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertsubsection/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertsubsection/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertactivity/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertactivity/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertkeyquestions/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertkeyquestions/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertquestions/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertquestions/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertrevision/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertrevision/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertnewwords/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertnewwords/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertnewwords/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertnewwords/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertvisit/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertvisit/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertdidyouknow/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
     <stylesheet title=""
         id="insertdidyouknow/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
-        enabled="1" expression="" />
+        enabled="1" />
 
 </object>
