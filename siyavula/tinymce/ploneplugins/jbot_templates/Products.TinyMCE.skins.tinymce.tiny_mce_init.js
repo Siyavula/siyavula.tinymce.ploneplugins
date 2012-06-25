@@ -106,11 +106,16 @@ function TinyMCEConfig(id) {
         }
 
         var pluginids = [
-            'insertexample', 'insertinvestigation', 'insertkeyconcepts',
-            'insertdefinition', 'insertpart', 'insertchapter', 'insertsection',
-            'insertsubsection', 'insertactivity', 'insertkeyquestions',
-            'insertquestions', 'insertrevision', 'insertnewwords',
-            'insertvisit', 'insertdidyouknow'];
+            'insertactivity', 'insertexample', 'insertnote',
+            'insertsubsection', 'insertaside', 'insertextension',
+            'insertpart', 'insertsummary', 'insertcasestudy',
+            'insertgroupdiscussion', 'insertproject',
+            'insertteachersguide', 'insertchapter',
+            'insertinvestigation', 'insertquestion', 'inserttip',
+            'insertdefinition', 'insertkeyconcepts', 'insertquestions',
+            'insertvisit', 'insertdidyouknow', 'insertkeyquestions',
+            'insertrevision', 'insertwarning', 'inserteocexercise',
+            'insertnewwords', 'insertsection'];
         if (pluginids.indexOf(b) != -1) {
             return 100;
             }
@@ -127,7 +132,7 @@ function TinyMCEConfig(id) {
     };
 
     this.initToolbars = function() {
-        var t = [[],[],[],[]];
+        var t = [[],[],[],[],[]];
         var cur_toolbar = 0;
         var cur_x = 0;
         var button_width;
@@ -140,12 +145,12 @@ function TinyMCEConfig(id) {
             } else {
                 cur_x += button_width;
             }
-            if (cur_toolbar <= 3) {
+            if (cur_toolbar <= 4) {
                 t[cur_toolbar].push (this.widget_config.buttons[i]);
             }
         }
 
-        this.toolbars = [t[0].join(','), t[1].join(','), t[2].join(','), t[3].join(',')];
+        this.toolbars = [t[0].join(','), t[1].join(','), t[2].join(','), t[3].join(','), t[4].join(',')];
     };
 
     this.getStyles = function() {
