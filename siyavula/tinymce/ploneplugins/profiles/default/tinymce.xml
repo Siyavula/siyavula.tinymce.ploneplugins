@@ -2,40 +2,64 @@
 <object>
     <resourcetypes purge="False">
         <customplugins purge="False">
-            <element value="insertexample"/>
-            <element value="insertinvestigation"/>
-            <element value="insertkeyconcepts"/>
-            <element value="insertdefinition"/>
-            <element value="insertpart"/>
-            <element value="insertchapter"/>
-            <element value="insertsection"/>
-            <element value="insertsubsection"/>
             <element value="insertactivity"/>
-            <element value="insertkeyquestions"/>
+            <element value="insertexample"/>
+            <element value="insertnote"/>
+            <element value="insertsubsection"/>
+            <element value="insertaside"/>
+            <element value="insertextension"/>
+            <element value="insertpart"/>
+            <element value="insertsummary"/>
+            <element value="insertcasestudy"/>
+            <element value="insertgroupdiscussion"/>
+            <element value="insertproject"/>
+            <element value="insertteachersguide"/>
+            <element value="insertchapter"/>
+            <element value="insertinvestigation"/>
+            <element value="insertquestion"/>
+            <element value="inserttip"/>
+            <element value="insertdefinition"/>
+            <element value="insertkeyconcepts"/>
             <element value="insertquestions"/>
-            <element value="insertrevision"/>
-            <element value="insertnewwords"/>
             <element value="insertvisit"/>
             <element value="insertdidyouknow"/>
+            <element value="insertkeyquestions"/>
+            <element value="insertrevision"/>
+            <element value="insertwarning"/>
+            <element value="inserteocexercise"/>
+            <element value="insertnewwords"/>
+            <element value="insertsection"/>
         </customplugins>
     </resourcetypes>
     <toolbar>
         <customtoolbarbuttons purge="False">
-            <element value="insertexample"/>
-            <element value="insertinvestigation"/>
-            <element value="insertkeyconcepts"/>
-            <element value="insertdefinition"/>
-            <element value="insertpart"/>
-            <element value="insertchapter"/>
-            <element value="insertsection"/>
-            <element value="insertsubsection"/>
             <element value="insertactivity"/>
-            <element value="insertkeyquestions"/>
+            <element value="insertexample"/>
+            <element value="insertnote"/>
+            <element value="insertsubsection"/>
+            <element value="insertaside"/>
+            <element value="insertextension"/>
+            <element value="insertpart"/>
+            <element value="insertsummary"/>
+            <element value="insertcasestudy"/>
+            <element value="insertgroupdiscussion"/>
+            <element value="insertproject"/>
+            <element value="insertteachersguide"/>
+            <element value="insertchapter"/>
+            <element value="insertinvestigation"/>
+            <element value="insertquestion"/>
+            <element value="inserttip"/>
+            <element value="insertdefinition"/>
+            <element value="insertkeyconcepts"/>
             <element value="insertquestions"/>
-            <element value="insertrevision"/>
-            <element value="insertnewwords"/>
             <element value="insertvisit"/>
             <element value="insertdidyouknow"/>
+            <element value="insertkeyquestions"/>
+            <element value="insertrevision"/>
+            <element value="insertwarning"/>
+            <element value="inserteocexercise"/>
+            <element value="insertnewwords"/>
+            <element value="insertsection"/>
         </customtoolbarbuttons>
     </toolbar>
 </object>
