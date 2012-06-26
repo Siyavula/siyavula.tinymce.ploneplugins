@@ -184,20 +184,6 @@
         enabled="1" />
 
     <stylesheet title=""
-        id="insertnewwords/ui.css"
-        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
-        media="screen" rel="stylesheet" rendering="link"
-        cacheable="True" compression="safe" cookable="True"
-        enabled="1" />
-
-    <stylesheet title=""
-        id="insertnewwords/content.css"
-        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
-        media="screen" rel="stylesheet" rendering="link"
-        cacheable="True" compression="safe" cookable="True"
-        enabled="1" />
-
-    <stylesheet title=""
         id="insertvisit/ui.css"
         expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
@@ -220,6 +206,174 @@
 
     <stylesheet title=""
         id="insertdidyouknow/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertaside/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertaside/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertextension/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertextension/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertcasestudy/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertcasestudy/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertgroupdiscussion/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertgroupdiscussion/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertproject/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertproject/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertteachersguide/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertteachersguide/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertquestion/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertquestion/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="inserttip/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="inserttip/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertwarning/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertwarning/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="inserteocexercise/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="inserteocexercise/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertnote/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertnote/content.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertsummary/ui.css"
+        expression="not:request/HTTP_X_THEME_ENABLED | nothing"
+        media="screen" rel="stylesheet" rendering="link"
+        cacheable="True" compression="safe" cookable="True"
+        enabled="1" />
+
+    <stylesheet title=""
+        id="insertsummary/content.css"
         expression="not:request/HTTP_X_THEME_ENABLED | nothing"
         media="screen" rel="stylesheet" rendering="link"
         cacheable="True" compression="safe" cookable="True"
