@@ -59,6 +59,7 @@ function TinyMCEConfig(id) {
             theme_advanced_buttons2 : this.getToolbar(1),
             theme_advanced_buttons3 : this.getToolbar(2),
             theme_advanced_buttons4 : this.getToolbar(3),
+            theme_advanced_buttons5 : this.getToolbar(4),
             theme_advanced_toolbar_location : this.getToolbarLocation(),
             theme_advanced_toolbar_align : "left",
             theme_advanced_path_location : this.getPathLocation(),
